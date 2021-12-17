@@ -2,7 +2,6 @@
 - 👀 I’m interested in Digital Marketing in the Arts and Entertainment industry
 - 🌱 I’m currently learning Python for Data Analysis
 - 💞️ I’m looking to collaborate on SQL and Data Visualization projects
-- 📫 You can reach me at angelicamaria.nanez@gmail.com
 
 <!---
 AngeNanez/AngeNanez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
