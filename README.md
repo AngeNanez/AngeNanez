@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AngeNanez
 - 👀 I’m interested in Digital Marketing in the Arts and Entertainment industry
-- 🌱 I’m currently learning Python for Data Analysis
-- 💞️ I’m looking to collaborate on SQL and Data Visualization projects
+- 🌱 I’m work as a Data Analysis
+- 💞️ I’m always looking to collaborate and learn!
 
 <!---
 AngeNanez/AngeNanez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
